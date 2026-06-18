@@ -81,7 +81,8 @@ def get_resfileindex_url(build: int) -> str:
             parts = line.strip().split(",")
             if len(parts) >= 2:
                 return f"{BASE_BINARY}/{parts[1]}"
-    raise RuntimeError(f"app:/resfileindex.txt entry not found in build manifest {build}")
+    raise RuntimeError(
+        f"app:/resfileindex.txt entry not found in build manifest {build}")
 
 
 def parse_resfileindex(content: str) -> dict[str, dict]:
@@ -96,15 +97,14 @@ def parse_resfileindex(content: str) -> dict[str, dict]:
         re.IGNORECASE,
     )
     for line in content.splitlines():
-        m = pattern.match(line)
-        if m:
-            lang = m.group(1).lower()
+        if m := pattern.match(line):
+            lang = m[1].lower()
             if lang not in LANGUAGES:
                 msg = f"\033[31m[WARNING] Skipping unsupported localization language: {lang}\033[0m"
                 print(msg, file=sys.stderr)
                 continue
-            download_path = m.group(2)
-            content_hash = m.group(3)
+            download_path = m[2]
+            content_hash = m[3]
             resource_path = f"res:/localizationfsd/localization_fsd_{lang}.pickle"
             entries[lang] = {
                 "resource_path": resource_path,
@@ -121,16 +121,12 @@ def parse_resfileindex(content: str) -> dict[str, dict]:
 
 def load_state_hashes(server: str) -> dict[str, str]:
     path = STATE_DIR / f"{server.lower()}-hashes.json"
-    if path.exists():
-        return json.loads(path.read_text())
-    return {}
+    return json.loads(path.read_text()) if path.exists() else {}
 
 
 def load_state_build(server: str) -> int | None:
     path = STATE_DIR / f"{server.lower()}-build.txt"
-    if path.exists():
-        return int(path.read_text().strip())
-    return None
+    return int(path.read_text().strip()) if path.exists() else None
 
 
 def save_state_hashes(server: str, hashes: dict[str, str]) -> None:
@@ -188,13 +184,16 @@ def fetch_server(server: str, force: bool = False) -> dict:
             print(f"[{server}] {lang}: hash unchanged, skipping.")
             continue
 
-        print(f"[{server}] {lang}: hash changed ({old_hash} → {new_hash}), downloading...")
+        print(
+            f"[{server}] {lang}: hash changed ({old_hash} → {new_hash}), downloading..."
+        )
 
         download_url = f"{BASE_RESOURCE}/{info['download_path']}"
         data = get_bytes(download_url)
 
         # Derive filename from resource path (always preserve original name)
-        filename = info["resource_path"].split("/")[-1]  # localization_fsd_zh.pickle
+        filename = info["resource_path"].split("/")[
+            -1]  # localization_fsd_zh.pickle
 
         out_dir = PICKLES_DIR / server.lower()
         out_dir.mkdir(parents=True, exist_ok=True)
@@ -223,17 +222,23 @@ def fetch_server(server: str, force: bool = False) -> dict:
 if __name__ == "__main__":
     import argparse
 
-    parser = argparse.ArgumentParser(description="Fetch EVE localization pickles.")
+    parser = argparse.ArgumentParser(
+        description="Fetch EVE localization pickles.")
     parser.add_argument("server", choices=["TQ", "SISI", "tq", "sisi"])
-    parser.add_argument("--force", action="store_true", help="Re-download all regardless of hash")
+    parser.add_argument("--force",
+                        action="store_true",
+                        help="Re-download all regardless of hash")
     args = parser.parse_args()
 
     result = fetch_server(args.server.upper(), force=args.force)
-    print(json.dumps(
-        {k: (str(v) if isinstance(v, Path) else v) for k, v in result.items()
-         if k != "changed"},
-        indent=2,
-    ))
+    print(
+        json.dumps(
+            {
+                k: (str(v) if isinstance(v, Path) else v)
+                for k, v in result.items() if k != "changed"
+            },
+            indent=2,
+        ))
     if result["changed"]:
         msg = f"\033[32m[SUCCESS] Changed languages: {list(result['changed'].keys())}\033[0m"
         print(msg, file=sys.stderr)
