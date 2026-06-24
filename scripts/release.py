@@ -178,7 +178,7 @@ def create_release(
 
     payload = {
         "tag_name": tag,
-        "name": f"EVE Localization {server.upper()} Build {build}",
+        "name": f"{server.upper()} Build {build}",
         "body": body
         or f"Localization update for {server.upper()} build {build}.",
         "draft": draft,
