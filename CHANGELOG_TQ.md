@@ -1,3 +1,773 @@
+# Build 3409592
+
+## Summary
+
+| Language | Added | Modified | Removed |
+|----------|-------|----------|---------|
+| de | 2 | 21 | 0 |
+| en | 2 | 21 | 0 |
+| es | 2 | 21 | 0 |
+| fr | 2 | 21 | 0 |
+
+## Details
+
+### MessageID: 1040460 · Source Modified
+
+EN
+
+```diff
+- […]erpentis, or Blood Raider Covenant ships when destroyed.
++ […]erpentis, or Blood Raider Covenant ships.
+```
+
+
+DE
+
+```text
+Zerstören Sie Caldari- oder Guristas-Piratenmiliz-Kapselpiloten in der Kriegszone der Caldari-Gallente. Sie müssen bei der Zerstörung Schiffe der Navy Issue, Angel Cartel, Guristas-Piraten, Serpentis oder Bund der Blood Raider fliegen.
+```
+
+
+ES
+
+```text
+Dentro de la zona de guerra Caldari-Gallente, destruye capsulistas de la milicia caldari o de los Piratas Guristas. Al ser destruidos, deben pilotar naves de modelo de la Armada, del Cártel de los Ángeles, de los Piratas Guristas, de Serpentis o del Pacto de los Saqueadores Sanguinarios.
+```
+
+
+FR
+
+```text
+Dans la zone de guerre caldari-gallente, détruisez les capsuliers de la milice caldari ou des pirates guristas. Ils doivent piloter des vaisseaux Navy Issue, du cartel Angel, des pirates guristas, des Serpentis ou de la cabale Blood Raider lorsqu'ils sont détruits.
+```
+
+
+
+
+### MessageID: 1040467 · Source Modified
+
+EN
+
+```diff
+- Successfully hack relic and data containers in Gallente bulwark systems t[…]
++ Successfully hack containers in Gallente bulwark systems t[…]
+```
+
+
+DE
+
+```diff
+- Hacken Sie erfolgreich Relikt- und Datencontainer in Gallente-Bollwerksyste[…]
++ Hacken Sie erfolgreich Datencontainer in Gallente-Bollwerksyste[…]
+```
+
+
+ES
+
+```diff
+- Hackea con éxito contenedores de reliquias y datos en sistemas baluarte gallentes par[…]
++ Hackea con éxito contenedores de datos en sistemas baluarte gallentes par[…]
+```
+
+
+FR
+
+```diff
+- Piratez avec succès les conteneurs de reliques et de données dans les systèmes remparts galle[…]
++ Piratez avec succès les conteneurs de données dans les systèmes remparts galle[…]
+```
+
+
+
+
+### MessageID: 1040482 · Source Modified
+
+EN
+
+```diff
+- […]erpentis, or Blood Raider Covenant ships when destroyed.
++ […]erpentis, or Blood Raider Covenant ships.
+```
+
+
+DE
+
+```text
+Zerstören Sie Caldari- oder Guristas-Piratenmiliz-Kapselpiloten in der Kriegszone der Caldari-Gallente. Sie müssen bei der Zerstörung Schiffe der Navy Issue, Angel Cartel, Guristas-Piraten, Serpentis oder Bund der Blood Raider fliegen.
+```
+
+
+ES
+
+```text
+Dentro de la zona de guerra Caldari-Gallente, destruye capsulistas de la milicia caldari o de los Piratas Guristas. Al ser destruidos, deben pilotar naves de modelo de la Armada, del Cártel de los Ángeles, de los Piratas Guristas, de Serpentis o del Pacto de los Saqueadores Sanguinarios.
+```
+
+
+FR
+
+```text
+Dans la zone de guerre caldari-gallente, détruisez les capsuliers de la milice caldari ou des pirates guristas. Ils doivent piloter des vaisseaux Navy Issue, du cartel Angel, des pirates guristas, des Serpentis ou de la cabale Blood Raider lorsqu'ils sont détruits.
+```
+
+
+
+
+### MessageID: 1040498 · Source Modified
+
+EN
+
+```diff
+- […]erpentis, or Blood Raider Covenant ships when destroyed.
++ […]erpentis, or Blood Raider Covenant ships.
+```
+
+
+DE
+
+```text
+Zerstören Sie Caldari- oder Guristas-Piratenmiliz-Kapselpiloten in der Kriegszone der Caldari-Gallente. Sie müssen bei der Zerstörung Schiffe der Navy Issue, Angel Cartel, Guristas-Piraten, Serpentis oder Bund der Blood Raider fliegen.
+```
+
+
+ES
+
+```text
+Dentro de la zona de guerra Caldari-Gallente, destruye capsulistas de la milicia caldari o de los Piratas Guristas. Al ser destruidos, deben pilotar naves de modelo de la Armada, del Cártel de los Ángeles, de los Piratas Guristas, de Serpentis o del Pacto de los Saqueadores Sanguinarios.
+```
+
+
+FR
+
+```text
+Dans la zone de guerre caldari-gallente, détruisez les capsuliers de la milice caldari ou des pirates guristas. Ils doivent piloter des vaisseaux Navy Issue, du cartel Angel, des pirates guristas, des Serpentis ou de la cabale Blood Raider lorsqu'ils sont détruits.
+```
+
+
+
+
+### MessageID: 1040547 · Source Modified
+
+EN
+
+```diff
+- Successfully hack relic and data containers in Caldari bulwark systems to[…]
++ Successfully hack containers in Caldari bulwark systems to[…]
+```
+
+
+DE
+
+```diff
+- Hacken Sie erfolgreich Relikt- und Datencontainer in Caldari-Bollwerkdystem[…]
++ Hacken Sie erfolgreich Datencontainer in Caldari-Bollwerkdystem[…]
+```
+
+
+ES
+
+```diff
+- Hackea con éxito contenedores de reliquias y datos en sistemas baluarte caldaris para[…]
++ Hackea con éxito contenedores de datos en sistemas baluarte caldaris para[…]
+```
+
+
+FR
+
+```diff
+- Piratez avec succès les conteneurs de reliques et de données dans les systèmes remparts calda[…]
++ Piratez avec succès les conteneurs de données dans les systèmes remparts calda[…]
+```
+
+
+
+
+### MessageID: 1040552 · Source Modified
+
+EN
+
+```diff
+- […]erpentis, or Blood Raider Covenant ships when destroyed.
++ […]erpentis, or Blood Raider Covenant ships.
+```
+
+
+DE
+
+```text
+Zerstören Sie Gallente- oder Guristas-Piratenmiliz-Kapselpiloten in der Kriegszone der Caldari-Gallente. Sie müssen bei der Zerstörung Schiffe der Navy Issue, Angel Cartel, Guristas-Piraten, Serpentis oder Bund der Blood Raider fliegen.
+```
+
+
+ES
+
+```text
+Dentro de la zona de guerra Caldari-Gallente, destruye capsulistas de la milicia gallente o de los Piratas Guristas. Al ser destruidos, deben pilotar naves de modelo de la Armada, del Cártel de los Ángeles, de los Piratas Guristas, de Serpentis o del Pacto de los Saqueadores Sanguinarios.
+```
+
+
+FR
+
+```text
+Dans la zone de guerre caldari-gallente, détruisez les capsuliers de la milice gallente ou des pirates guristas. Ils doivent piloter des vaisseaux Navy Issue, du cartel Angel, des pirates guristas, des Serpentis ou de la cabale Blood Raider lorsqu'ils sont détruits.
+```
+
+
+
+
+### MessageID: 1040554 · Source Modified
+
+EN
+
+```diff
+- […]erpentis, or Blood Raider Covenant ships when destroyed.
++ […]erpentis, or Blood Raider Covenant ships.
+```
+
+
+DE
+
+```text
+Reparieren Sie Milizkapselpiloten der Caldari in der Kriegszone der Caldari-Gallente. Sie müssen bei der Zerstörung folgende Schiffe fliegen: Navy Issue, Angel Cartel, Guristas-Piraten, Serpentis oder Bund der Blood Raider. <b>Sie müssen in der Miliz des Imperiums der Caldari eingeschrieben sein, um zu diesem Ziel beizutragen.</b>
+```
+
+
+ES
+
+```text
+Dentro de la zona de guerra Caldari-Gallente, repara capsulistas de la milicia caldari. Al ser destruidos, deben pilotar naves de modelo de la Armada, del Cártel de los Ángeles, de los Piratas Guristas, de Serpentis o del Pacto de los Saqueadores Sanguinarios.
+
+<b>Debes estar alistado en la milicia del Imperio Caldari para contribuir a este objetivo.</b>
+```
+
+
+FR
+
+```text
+Dans la zone de guerre caldari-gallente, réparez des capsuliers de la milice caldari. Ils doivent piloter des vaisseaux Navy Issue, du cartel Angel, des pirates guristas, des Serpentis ou de la cabale Blood Raider lorsqu'ils sont détruits. <b>Vous devez être engagé dans la milice caldari pour contribuer à cet objectif.</b>
+```
+
+
+
+
+### MessageID: 1040567 · Source Modified
+
+EN
+
+```diff
+- […]erpentis, or Blood Raider Covenant ships when destroyed.
++ […]erpentis, or Blood Raider Covenant ships.
+```
+
+
+DE
+
+```text
+Zerstören Sie Gallente- oder Guristas-Piratenmiliz-Kapselpiloten in der Kriegszone der Caldari-Gallente. Sie müssen bei der Zerstörung Schiffe der Navy Issue, Angel Cartel, Guristas-Piraten, Serpentis oder Bund der Blood Raider fliegen.
+```
+
+
+ES
+
+```text
+Dentro de la zona de guerra Caldari-Gallente, destruye capsulistas de la milicia gallente o de los Piratas Guristas. Al ser destruidos, deben pilotar naves de modelo de la Armada, del Cártel de los Ángeles, de los Piratas Guristas, de Serpentis o del Pacto de los Saqueadores Sanguinarios.
+```
+
+
+FR
+
+```text
+Dans la zone de guerre caldari-gallente, détruisez les capsuliers de la milice gallente ou des pirates guristas. Ils doivent piloter des vaisseaux Navy Issue, du cartel Angel, des pirates guristas, des Serpentis ou de la cabale Blood Raider lorsqu'ils sont détruits.
+```
+
+
+
+
+### MessageID: 1040574 · Source Modified
+
+EN
+
+```diff
+- […]erpentis, or Blood Raider Covenant ships when destroyed.
++ […]erpentis, or Blood Raider Covenant ships.
+```
+
+
+DE
+
+```text
+Zerstören Sie Gallente- oder Guristas-Piratenmiliz-Kapselpiloten in der Kriegszone der Caldari-Gallente. Sie müssen bei der Zerstörung Schiffe der Navy Issue, Angel Cartel, Guristas-Piraten, Serpentis oder Bund der Blood Raider fliegen.
+```
+
+
+ES
+
+```text
+Dentro de la zona de guerra Caldari-Gallente, destruye capsulistas de la milicia gallente o de los Piratas Guristas. Al ser destruidos, deben pilotar naves de modelo de la Armada, del Cártel de los Ángeles, de los Piratas Guristas, de Serpentis o del Pacto de los Saqueadores Sanguinarios.
+```
+
+
+FR
+
+```text
+Dans la zone de guerre caldari-gallente, détruisez les capsuliers de la milice gallente ou des pirates guristas. Ils doivent piloter des vaisseaux Navy Issue, du cartel Angel, des pirates guristas, des Serpentis ou de la cabale Blood Raider lorsqu'ils sont détruits.
+```
+
+
+
+
+### MessageID: 1040584 · Source Modified
+
+EN
+
+```diff
+- Successfully hack relic and data containers in Caldari bulwark systems to[…]
++ Successfully hack containers in Caldari bulwark systems to[…]
+```
+
+
+DE
+
+```diff
+- Hacken Sie erfolgreich Relikt- und Datencontainer in Caldari-Bollwerkdystem[…]
++ Hacken Sie erfolgreich Datencontainer in Caldari-Bollwerkdystem[…]
+```
+
+
+ES
+
+```diff
+- Hackea con éxito contenedores de reliquias y datos en sistemas baluarte caldaris para[…]
++ Hackea con éxito contenedores de datos en sistemas baluarte caldaris para[…]
+```
+
+
+FR
+
+```diff
+- Piratez avec succès les conteneurs de reliques et de données dans les systèmes remparts calda[…]
++ Piratez avec succès les conteneurs de données dans les systèmes remparts calda[…]
+```
+
+
+
+
+### MessageID: 1040586 · Source Modified
+
+EN
+
+```diff
+- […]erpentis, or Blood Raider Covenant ships when destroyed.
++ […]erpentis, or Blood Raider Covenant ships.
+```
+
+
+DE
+
+```text
+Zerstören Sie Gallente- oder Guristas-Piratenmiliz-Kapselpiloten in der Kriegszone der Caldari-Gallente. Sie müssen bei der Zerstörung Schiffe der Navy Issue, Angel Cartel, Guristas-Piraten, Serpentis oder Bund der Blood Raider fliegen.
+```
+
+
+ES
+
+```text
+Dentro de la zona de guerra Caldari-Gallente, destruye capsulistas de la milicia gallente o de los Piratas Guristas. Al ser destruidos, deben pilotar naves de modelo de la Armada, del Cártel de los Ángeles, de los Piratas Guristas, de Serpentis o del Pacto de los Saqueadores Sanguinarios.
+```
+
+
+FR
+
+```text
+Dans la zone de guerre caldari-gallente, détruisez les capsuliers de la milice gallente ou des pirates guristas. Ils doivent piloter des vaisseaux Navy Issue, du cartel Angel, des pirates guristas, des Serpentis ou de la cabale Blood Raider lorsqu'ils sont détruits.
+```
+
+
+
+
+### MessageID: 1040638 · Source Modified
+
+EN
+
+```diff
+- Successfully hack relic and data containers in Amarr bulwark systems to s[…]
++ Successfully hack containers in Amarr bulwark systems to s[…]
+```
+
+
+DE
+
+```diff
+- Hacken Sie erfolgreich Relikt- und Datencontainer in Amarr-Bollwerksystemen[…]
++ Hacken Sie erfolgreich Datencontainer in Amarr-Bollwerksystemen[…]
+```
+
+
+ES
+
+```diff
+- Hackea con éxito contenedores de reliquias y datos en sistemas baluarte amarrianos pa[…]
++ Hackea con éxito contenedores de datos en sistemas baluarte amarrianos pa[…]
+```
+
+
+FR
+
+```diff
+- Piratez avec succès les conteneurs de reliques et de données dans les systèmes remparts amarr[…]
++ Piratez avec succès les conteneurs de données dans les systèmes remparts amarr[…]
+```
+
+
+
+
+### MessageID: 1040639 · Source Modified
+
+EN
+
+```diff
+- […]erpentis, or Blood Raider Covenant ships when destroyed.
++ […]erpentis, or Blood Raider Covenant ships.
+```
+
+
+DE
+
+```text
+Zerstören Sie Milizkapselpiloten der Minmatar oder des Angel Cartel in der Kriegszone der Amarr-Minmatar. Sie müssen bei der Zerstörung eins der folgenden Schiffe fliegen: Navy Issue, Angel Cartel, Guristas-Piraten, Serpentis oder Bund der Blood Raider. <b>Sie müssen in der Miliz des Imperiums der Amarr eingeschrieben sein, um zu diesem Ziel beizutragen.</b>
+```
+
+
+ES
+
+```text
+Dentro de la zona de guerra Amarr-Minmatar, destruye capsulistas de la milicia minmatariana o del Cártel de los Ángeles. Al ser destruidos, deben pilotar naves de modelo de la Armada, del Cártel de los Ángeles, de los Piratas Guristas, de Serpentis o del Pacto de los Saqueadores Sanguinarios.
+
+<b>Debes estar alistado en la milicia del Imperio Amarr para contribuir a este objetivo.</b>
+```
+
+
+FR
+
+```text
+Dans la zone de guerre amarr-minmatar, détruisez des capsuliers de la milice minmatar ou du cartel Angel. Ils doivent piloter des vaisseaux Navy Issue, du cartel Angel, des pirates guristas, des Serpentis ou de la cabale Blood Raider lorsqu'ils sont détruits. <b>Vous devez être engagé dans la milice de l'Empire amarr pour contribuer à cet objectif.</b>
+```
+
+
+
+
+### MessageID: 1040648 · Source Modified
+
+EN
+
+```diff
+- Successfully hack relic and data containers in Amarr bulwark systems to s[…]
++ Successfully hack containers in Amarr bulwark systems to s[…]
+```
+
+
+DE
+
+```diff
+- Hacken Sie erfolgreich Relikt- und Datencontainer in Amarr-Bollwerksystemen[…]
++ Hacken Sie erfolgreich Datencontainer in Amarr-Bollwerksystemen[…]
+```
+
+
+ES
+
+```diff
+- Hackea con éxito contenedores de reliquias y datos en sistemas baluarte amarrianos pa[…]
++ Hackea con éxito contenedores de datos en sistemas baluarte amarrianos pa[…]
+```
+
+
+FR
+
+```diff
+- Piratez avec succès les conteneurs de reliques et de données dans les systèmes remparts amarr[…]
++ Piratez avec succès les conteneurs de données dans les systèmes remparts amarr[…]
+```
+
+
+
+
+### MessageID: 1040658 · Source Modified
+
+EN
+
+```diff
+- […]erpentis, or Blood Raider Covenant ships when destroyed.
++ […]erpentis, or Blood Raider Covenant ships.
+```
+
+
+DE
+
+```text
+Zerstören Sie Milizkapselpiloten der Minmatar oder des Angel Cartel in der Kriegszone der Amarr-Minmatar. Sie müssen bei der Zerstörung eins der folgenden Schiffe fliegen: Navy Issue, Angel Cartel, Guristas-Piraten, Serpentis oder Bund der Blood Raider. <b>Sie müssen in der Miliz des Imperiums der Amarr eingeschrieben sein, um zu diesem Ziel beizutragen.</b>
+```
+
+
+ES
+
+```text
+Dentro de la zona de guerra Amarr-Minmatar, destruye capsulistas de la milicia minmatariana o del Cártel de los Ángeles. Al ser destruidos, deben pilotar naves de modelo de la Armada, del Cártel de los Ángeles, de los Piratas Guristas, de Serpentis o del Pacto de los Saqueadores Sanguinarios.
+
+<b>Debes estar alistado en la milicia del Imperio Amarr para contribuir a este objetivo.</b>
+```
+
+
+FR
+
+```text
+Dans la zone de guerre amarr-minmatar, détruisez des capsuliers de la milice minmatar ou du cartel Angel. Ils doivent piloter des vaisseaux Navy Issue, du cartel Angel, des pirates guristas, des Serpentis ou de la cabale Blood Raider lorsqu'ils sont détruits. <b>Vous devez être engagé dans la milice de l'Empire amarr pour contribuer à cet objectif.</b>
+```
+
+
+
+
+### MessageID: 1040669 · Source Modified
+
+EN
+
+```diff
+- […]erpentis, or Blood Raider Covenant ships when destroyed.
++ […]erpentis, or Blood Raider Covenant ships.
+```
+
+
+DE
+
+```text
+Zerstören Sie Milizkapselpiloten der Minmatar oder des Angel Cartel in der Kriegszone der Amarr-Minmatar. Sie müssen bei der Zerstörung eins der folgenden Schiffe fliegen: Navy Issue, Angel Cartel, Guristas-Piraten, Serpentis oder Bund der Blood Raider. <b>Sie müssen in der Miliz des Imperiums der Amarr eingeschrieben sein, um zu diesem Ziel beizutragen.</b>
+```
+
+
+ES
+
+```text
+Dentro de la zona de guerra Amarr-Minmatar, destruye capsulistas de la milicia minmatariana o del Cártel de los Ángeles. Al ser destruidos, deben pilotar naves de modelo de la Armada, del Cártel de los Ángeles, de los Piratas Guristas, de Serpentis o del Pacto de los Saqueadores Sanguinarios.
+
+<b>Debes estar alistado en la milicia del Imperio Amarr para contribuir a este objetivo.</b>
+```
+
+
+FR
+
+```text
+Dans la zone de guerre amarr-minmatar, détruisez des capsuliers de la milice minmatar ou du cartel Angel. Ils doivent piloter des vaisseaux Navy Issue, du cartel Angel, des pirates guristas, des Serpentis ou de la cabale Blood Raider lorsqu'ils sont détruits. <b>Vous devez être engagé dans la milice de l'Empire amarr pour contribuer à cet objectif.</b>
+```
+
+
+
+
+### MessageID: 1040724 · Source Modified
+
+EN
+
+```diff
+- […]erpentis, or Blood Raider Covenant ships when destroyed.
++ […]erpentis, or Blood Raider Covenant ships.
+```
+
+
+DE
+
+```text
+Zerstören Sie Milizkapselpiloten der Amarr oder des Angel Cartel in der Kriegszone der Amarr-Minmatar. Sie müssen bei der Zerstörung eins der folgenden Schiffe fliegen: Navy Issue, Angel Cartel, Guristas-Piraten, Serpentis oder Bund der Blood Raider. <b>Sie müssen in der Miliz des Imperiums der Minmatar eingeschrieben sein, um zu diesem Ziel beizutragen.</b>
+```
+
+
+ES
+
+```text
+Dentro de la zona de guerra Amarr-Minmatar, destruye capsulistas de la milicia amarriana o del Cártel de los Ángeles. Al ser destruidos, deben pilotar naves de modelo de la Armada, del Cártel de los Ángeles, de los Piratas Guristas, de Serpentis o del Pacto de los Saqueadores Sanguinarios.
+
+<b>Debes estar alistado en la milicia del Imperio Minmatar para contribuir a este objetivo.</b>
+```
+
+
+FR
+
+```text
+Dans la zone de guerre amarr-minmatar, détruisez des capsuliers de la milice amarr ou du cartel Angel. Ils doivent piloter des vaisseaux Navy Issue, du cartel Angel, des pirates guristas, des Serpentis ou de la cabale Blood Raider lorsqu'ils sont détruits. <b>Vous devez être engagé dans la milice minmatar pour contribuer à cet objectif.</b>
+```
+
+
+
+
+### MessageID: 1040727 · Source Modified
+
+EN
+
+```diff
+- Successfully hack relic and data containers in Minmatar bulwark systems t[…]
++ Successfully hack containers in Minmatar bulwark systems t[…]
+```
+
+
+DE
+
+```diff
+- Hacken Sie erfolgreich Relikt- und Datencontainer in Minmatar-Bollwerksyste[…]
++ Hacken Sie erfolgreich Datencontainer in Minmatar-Bollwerksyste[…]
+```
+
+
+ES
+
+```diff
+- Hackea con éxito contenedores de reliquias y datos en sistemas baluarte minmatarianos[…]
++ Hackea con éxito contenedores de datos en sistemas baluarte minmatarianos[…]
+```
+
+
+FR
+
+```diff
+- Piratez avec succès les conteneurs de reliques et de données dans les systèmes remparts minma[…]
++ Piratez avec succès les conteneurs de données dans les systèmes remparts minma[…]
+```
+
+
+
+
+### MessageID: 1040740 · Source Modified
+
+EN
+
+```diff
+- […]erpentis, or Blood Raider Covenant ships when destroyed.
++ […]erpentis, or Blood Raider Covenant ships.
+```
+
+
+DE
+
+```text
+Zerstören Sie Milizkapselpiloten der Amarr oder des Angel Cartel in der Kriegszone der Amarr-Minmatar. Sie müssen bei der Zerstörung eins der folgenden Schiffe fliegen: Navy Issue, Angel Cartel, Guristas-Piraten, Serpentis oder Bund der Blood Raider. <b>Sie müssen in der Miliz des Imperiums der Minmatar eingeschrieben sein, um zu diesem Ziel beizutragen.</b>
+```
+
+
+ES
+
+```text
+Dentro de la zona de guerra Amarr-Minmatar, destruye capsulistas de la milicia amarriana o del Cártel de los Ángeles. Al ser destruidos, deben pilotar naves de modelo de la Armada, del Cártel de los Ángeles, de los Piratas Guristas, de Serpentis o del Pacto de los Saqueadores Sanguinarios.
+
+<b>Debes estar alistado en la milicia del Imperio Minmatar para contribuir a este objetivo.</b>
+```
+
+
+FR
+
+```text
+Dans la zone de guerre amarr-minmatar, détruisez des capsuliers de la milice amarr ou du cartel Angel. Ils doivent piloter des vaisseaux Navy Issue, du cartel Angel, des pirates guristas, des Serpentis ou de la cabale Blood Raider lorsqu'ils sont détruits. <b>Vous devez être engagé dans la milice minmatar pour contribuer à cet objectif.</b>
+```
+
+
+
+
+### MessageID: 1040756 · Source Modified
+
+EN
+
+```diff
+- […]erpentis, or Blood Raider Covenant ships when destroyed.
++ […]erpentis, or Blood Raider Covenant ships.
+```
+
+
+DE
+
+```text
+Zerstören Sie Milizkapselpiloten der Amarr oder des Angel Cartel in der Kriegszone der Amarr-Minmatar. Sie müssen bei der Zerstörung eins der folgenden Schiffe fliegen: Navy Issue, Angel Cartel, Guristas-Piraten, Serpentis oder Bund der Blood Raider. <b>Sie müssen in der Miliz des Imperiums der Minmatar eingeschrieben sein, um zu diesem Ziel beizutragen.</b>
+```
+
+
+ES
+
+```text
+Dentro de la zona de guerra Amarr-Minmatar, destruye capsulistas de la milicia amarriana o del Cártel de los Ángeles. Al ser destruidos, deben pilotar naves de modelo de la Armada, del Cártel de los Ángeles, de los Piratas Guristas, de Serpentis o del Pacto de los Saqueadores Sanguinarios.
+
+<b>Debes estar alistado en la milicia del Imperio Minmatar para contribuir a este objetivo.</b>
+```
+
+
+FR
+
+```text
+Dans la zone de guerre amarr-minmatar, détruisez des capsuliers de la milice amarr ou du cartel Angel. Ils doivent piloter des vaisseaux Navy Issue, du cartel Angel, des pirates guristas, des Serpentis ou de la cabale Blood Raider lorsqu'ils sont détruits. <b>Vous devez être engagé dans la milice minmatar pour contribuer à cet objectif.</b>
+```
+
+
+
+
+### MessageID: 1040766 · Source Modified
+
+EN
+
+```diff
+- […]erpentis, or Blood Raider Covenant ships when destroyed.
++ […]erpentis, or Blood Raider Covenant ships.
+```
+
+
+DE
+
+```text
+Zerstören Sie Milizkapselpiloten der Amarr oder des Angel Cartel in der Kriegszone der Amarr-Minmatar. Sie müssen bei der Zerstörung eins der folgenden Schiffe fliegen: Navy Issue, Angel Cartel, Guristas-Piraten, Serpentis oder Bund der Blood Raider. <b>Sie müssen in der Miliz des Imperiums der Minmatar eingeschrieben sein, um zu diesem Ziel beizutragen.</b>
+```
+
+
+ES
+
+```text
+Dentro de la zona de guerra Amarr-Minmatar, destruye capsulistas de la milicia amarriana o del Cártel de los Ángeles. Al ser destruidos, deben pilotar naves de modelo de la Armada, del Cártel de los Ángeles, de los Piratas Guristas, de Serpentis o del Pacto de los Saqueadores Sanguinarios.
+
+<b>Debes estar alistado en la milicia del Imperio Minmatar para contribuir a este objetivo.</b>
+```
+
+
+FR
+
+```text
+Dans la zone de guerre amarr-minmatar, détruisez des capsuliers de la milice amarr ou du cartel Angel. Ils doivent piloter des vaisseaux Navy Issue, du cartel Angel, des pirates guristas, des Serpentis ou de la cabale Blood Raider lorsqu'ils sont détruits. <b>Vous devez être engagé dans la milice minmatar pour contribuer à cet objectif.</b>
+```
+
+
+
+
+### MessageID: 1047720 · Added
+
+EN
+
+```text
+Decoractions
+```
+
+
+DE, ES, and FR: *empty*
+
+
+
+
+### MessageID: 1047721 · Added
+
+EN
+
+```text
+Titles
+```
+
+
+DE, ES, and FR: *empty*
+
+
+
+
+---
+
 # Build 3405148
 
 ## Summary
