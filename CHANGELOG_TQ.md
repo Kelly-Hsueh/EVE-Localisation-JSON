@@ -1,3 +1,1065 @@
+# Build 3419624
+
+## Summary
+
+| Language | Added | Modified | Removed |
+|----------|-------|----------|---------|
+| de | 6 | 12 | 1 |
+| en | 6 | 12 | 1 |
+| es | 6 | 12 | 1 |
+| fr | 6 | 12 | 1 |
+| ja | 6 | 12 | 1 |
+| ko | 6 | 12 | 1 |
+| ru | 6 | 12 | 1 |
+| zh | 6 | 12 | 1 |
+
+## Details
+
+### MessageID: 93930 · Source Modified
+
+EN
+
+```diff
+  The Chimera's design is based upon the Kairiola, a vessel holding tremendous historical significance for the Caldari. Initially a water freighter, the Kairiola was refitted in the days of the Gallente-Caldari war to act as a fighter carrier during the orbital bombardment of Caldari Prime. 
+  
+- It was most famously flown by the legendary Admiral Yakia Tovil-Toba directly into Gallente Prime's atmosphere, where it fragmented and struck several key locations on the planet. This event, where the good Admiral gave his life, marked the culmination of a week's concentrated campaign of distraction which enabled the Caldari to evacuate their people from their besieged home planet. Where the Chimera roams, the Caldari remember.
++ It was most famously flown by the legendary Admiral Yakiya Tovil-Toba directly into Gallente Prime's atmosphere, where it fragmented and struck several key locations on the planet. This event, where the good Admiral gave his life, marked the culmination of a week's concentrated campaign of distraction which enabled the Caldari to evacuate their people from their besieged home planet. Where the Chimera roams, the Caldari remember.
+  
+  The Chimera is capable of generating a <a href=showinfo:83094>Jump Conduit Portal</a> which allows it to instantaneously transport itself and nearby fleet members to a target cynosural beacon. Ship classes that can be moved via conduit: Frigates, Destroyers, Cruisers, Battlecruisers, and Battleships.
+```
+
+
+DE
+
+```text
+Das Design der Chimera basiert auf dem der Kairiola. Dieses Schiff hat eine enorme historische Bedeutung für die Caldari. Anfangs ein Wasserfrachter, wurde die Kairiola während des Krieges zwischen Gallente und Caldari zum Fighter-Träger umgebaut, um in den Kampf während des orbitalen Bombardements von Caldari Prime einzugreifen. Sie wurde vom legendären Admiral Yakia Tovil-Toba direkt in die Atmosphäre von Gallente Prime geflogen, wo sie auseinanderbrach und mehrere Schlüsselpositionen auf dem 
+(truncated, 1,136 chars total)
+```
+
+
+ES
+
+```text
+El diseño de la Chimera está basado en la Kairiola, una nave de gran relevancia histórica para los caldaris. La Kairiola, que en un principio servía como carguero de agua, se reutilizó como portanaves en el bombardeo orbital de Caldari Prime durante la guerra Gallente-Caldari. 
+
+Es más conocida por haber sido la nave del legendario almirante Yakia Tovil-Toba, que la hizo entrar directamente en la atmósfera de Gallente Prime, donde estalló e impactó contra varias ubicaciones clave del planeta. 
+(truncated, 1,107 chars total)
+```
+
+
+FR
+
+```text
+Le Chimera est basé sur le Kairiola, un vaisseau dont l'importance historique est considérable pour le peuple caldari. Initialement un vaisseau-citerne d'eau, le Kairiola a été transformé durant la guerre Gallente-Caldari pour faire office de porte-chasseurs lors du bombardement orbital de Caldari Prime. Il a été rendu célèbre par le légendaire amiral Yakia Tovil-Toba qui l'a fait s'écraser directement dans l'atmosphère de Gallente Prime, où il s'est fragmenté et a touché plusieurs sites clés de
+(truncated, 1,126 chars total)
+```
+
+
+JA
+
+```text
+キメラは、カルダリにとって歴史的意義の極めて高いカイリオラを基礎に設計されている。元々は超大型水輸送艦だったカイリオラは、ガレンテ-カルダリ戦争中にカルダリプライムが軌道爆撃を受けていた頃、艦載戦闘機母艦に改装された。 
+
+ヤキア・トヴィル‐トバ提督はカイリオラでガレンテプライムの大気圏内に突入し、惑星上の複数の主要地域を粉砕した。これにより提督は命を落としたが、ガレンテは1週間に渡って混乱状態に陥り、その間にカルダリは包囲された故郷の星から人民を退避させることに成功した。キメラある所、カルダリの心あり。
+
+キメラは<a href=showinfo:83094>コンジットジャンプポータル</a>を生み出し、自身と周囲のフリートメンバーを標的のサイノシュラルビーコンまで瞬時に移動させることができる。コンジットジャンプで移動可能な艦種は次の通り：フリゲート、駆逐艦、巡洋艦、巡洋戦艦、そして戦艦
+```
+
+
+KO
+
+```text
+칼다리 연합에게 잊지 못할 역사적 의미를 담고 있는 카이리올라를 본떠 건조한 키메라입니다. 초기 개발에는 프레이터로 사용되었지만 갈란테-칼다리 전쟁에서 칼다리 프라임이 궤도 폭격에 노출되었을 때 큰 활약을 한 파이터 캐리어로 개조됐습니다.<BR><BR>희대의 영웅, 야키아 토빌-토바 제독이 갈란테 프라임 진영으로 단숨에 진격해 주요 지역을 폭격한 것으로 유명한 배틀쉽입니다. 야키아 제독은 끝내 전사하였지만 적의 시선을 충분히 끌고 방해하여 사방으로 포위된 칼다리인들이 빠져나갈 시간을 벌어주었습니다. 키메라가 울부짖을 때마다 칼다리 연합은 잊지 않고 기억할 것입니다.<br><br>키메라는 <a href=showinfo:83094>점프 포탈</a>을 생성하여 본함과 함께 함대원을 사이노슈럴 비컨으로 이동시킬 수 있습니다. 이동 가능한 함급: 프리깃, 디스트로이어, 크루저, 배틀크루저, 배틀쉽
+```
+
+
+RU
+
+```text
+Инженеры, проектировавшие Chimera, взяли за основу Kairiola — корабль, сыгравший важную роль в калдарской истории. Во времена галлентско-калдарской войны конструкция водного фрейтера Kairiola претерпела значительные изменения. Именно эти суда использовали для транспортировки истребителей во время планетарной бомбардировки. Легендарный адмирал Якия Товил-Тоба влетел на Kairiola прямо в атмосферу Галленте Прайм, где корабль разлетелся на куски, а его обломки поразили несколько важных стратегически
+(truncated, 982 chars total)
+```
+
+
+ZH
+
+```text
+奇美拉级航空母舰的设计基于凯利欧拉号战舰，后者对于加达里而言具有非凡的历史意义。凯利欧拉号最初是一艘负责运送净水的货舰，由于盖伦特-加达里战争的爆发，被改造为一艘铁骑舰载机航母，在加达里首星遭受轨道轰炸期间投入实战。加达里传奇人物雅卡•托维托巴海军上将，驾驶这艘战舰直接冲入盖伦特首星大气层，利用飞船解体碎裂后的残片对行星上几处关键地点发动了致命性的打击。上将的牺牲成功扰乱了联邦的计划，为加达里人民赢得了足够的时间，使他们得以从被围困的星球上撤离。奇美拉级承载着加达里人民对上将的追思，看到它，就会想起那些为民族自由抛洒热血的不屈英魂。奇美拉级能够生成一个<a href=showinfo:83094>跳跃导管星门</a>，并立即将自身和附近的舰队成员传送到指定的诱导信标。可以通过导管移动的舰船级别包括：护卫舰、驱逐舰、巡洋舰、战列巡洋舰和战列舰。
+```
+
+
+
+
+### MessageID: 144429 · Source Modified
+
+EN
+
+```diff
+- Our engineering scientists, working at our highly secure, clandestine R&D facility on a nearby planet have produced a new type of cloaking device that, when fitted to Covert Ops ships, could theoretically enable them to jump through stargates without uncloaking! And yes, I can see by the look on your face that you must think I've had far too many Extra Strength Quafe sodas today. However, I can assure you that, while it may be many years before this technology is perfected and suitable for even experimental use, the science behind it is quite real, and this is where this story takes a very important twist. <br><br>
++ Our engineering scientists, working at our highly secure, clandestine R&amp;D facility on a nearby planet have produced a new type of cloaking device that, when fitted to Covert Ops ships, could theoretically enable them to jump through stargates without uncloaking! And yes, I can see by the look on your face that you must think I've had far too many Extra Strength Quafe sodas today. However, I can assure you that, while it may be many years before this technology is perfected and suitable for even experimental use, the science behind it is quite real, and this is where this story takes a very important twist. <br><br>
+  Our internal security teams have managed to uncover a plan formulated by one of our competitors to steal the prototype cloaking system at some point between the time it leaves the lab up until it arrives at the field testing facility over in the next system. Problem is, we don't yet know who the spy is, so we devised a plan to get that spy to expose himself so that we can then move in and make the arrest.<br><br>
+  To this end, you will be delivering is a very detailed mock-up series of the actual prototype, one that will withstand an initial visual and electronic scrutiny on the part of the thief. In all practical terms, however, these devices could no more cloak a ship than it could cook your morning breakfast. We are naming this event Operation Doorstop, which is our planning team's attempt at humor, given the uselessness of this particular lump of metal and wires. What we do need, though, is your absolute confidentiality on this shipment. If the spy gets any whiff that this is a set-up, we will likely never know who he or she is, and we will remain at ongoing risk of one of our most important R&amp;D projects potentially falling into the wrong hands. <br><br>
+  So, what do you say, {[character]player.name}? Willing to take on this rather interesting assignment? 
+```
+
+
+DE
+
+```text
+Unsere Ingenieure arbeiten in unserer geheimen Hochsicherheitsanlage auf einem nahegelegenen Planeten und haben einen neuen Typ von Tarngeräten entwickelt, das es einem Schiff für geheime Operationen nach dem Einbau theoretisch ermöglichen sollte, ohne sich zu enttarnen durch Sternentore zu springen! Und ja, ich kann Ihrem Gesichtsausdruck entnehmen, dass Sie der Ansicht sind, ich hätte heute bereits zu viele extrastarkes Quafe getrunken. Doch ich kann Ihnen versichern, dass es zwar Jahre dauern
+(truncated, 2,124 chars total)
+```
+
+
+ES
+
+```text
+Nuestros científicos de ingeniería, que trabajan en nuestras instalaciones de I+D clandestinas de alta seguridad en un planeta cercano, han fabricado un nuevo tipo de dispositivo de camuflaje que, cuando se instala en las naves de operaciones encubiertas, podría permitirles, en teoría, saltar a través de los portales estelares sin descamuflarse. Por la cara que has puesto, debes de pensar que me he pasado con la dosis de refrescos Quafe extrafuertes. Sin embargo, puedo garantizarte que, aunque p
+(truncated, 1,955 chars total)
+```
+
+
+FR
+
+```text
+Les ingénieurs travaillant dans notre installation clandestine ultra-sécurisée de R&D sur une planète près d'ici ont mis au point un nouveau dispositif de camouflage qui, lorsqu'il équipera les vaisseaux des opérations secrètes, devrait leur permettre de sauter à travers les portails stellaires sans désactiver leur camouflage. Et oui, je peux voir d'après votre tête que vous pensez que j'ai abusé des sodas Quafe extra forts aujourd'hui. Mais je peux vous assurer que, même s'il faudra certainemen
+(truncated, 2,121 chars total)
+```
+
+
+JA
+
+```text
+極秘の R&D 施設で働いている我々の技術科学者が新しいタイプの遮蔽装置を開発した。この施設は近くの惑星にあり、高いセキュリティが確保されている。このデバイスを装備した隠密行動艦は、理論上では遮蔽されたままスターゲート間をジャンプできるはずだ。ああ、君の顔から分かるよ。今日の私は最強クァフェソーダを飲み過ぎだって言うんだろ。だが、断言できる。このテクノロジーが完成し実験的にでも使用できるようになるには何年もかかるだろう。しかし、その背後にある科学はまさに現実だ。これこそがこの話の肝なのだ。 <br><br>
+競合相手の一つがプロトタイプ遮蔽装置を盗み出そうとしている計画を、我々の国内治安管理局チームが発見した。奴らは、研究施設から運び出されたプロトタイプ遮蔽装置を、次のシステムの実地テスト施設に到着するまでの間に盗み出そうと目論んでいる。問題は誰がスパイであるかが分からないことだ。そこで、我々は現場に踏み込んで逮捕できるようそいつを暴き出す計画を考案した。<br><br>
+この目的を達成するために、実際のプロトタイプを模した非常に精巧な実物大モデルをいくつか運んで欲しい。このモデルは泥
+(truncated, 840 chars total)
+```
+
+
+KO
+
+```text
+근처 행성 내 높은 보안 수준을 유지하는 비밀 연구개발 시설에서 우리 엔지니어링 과학자들이 새로운 종류의 클로킹 장치를 개발했습니다. 코버트 옵스 함선에 장착하면 이론상으로는 클로킹을 해제하지 않고서도 스타게이트를 점프로 뛰어넘을 수 있도록 하는 장치지요. 그래요, 표정을 보아하니 오늘 제가 엑스트라 스트렝스 퀘이프 소다를 너무 많이 마신 건 아닌가 하고 생각하고 있나 보군요. 어쨌든 제가 장담할 수 있는 건, 실험용으로 적용하기에 충분해지기까지 오랜 세월이 필요할지는 모르겠지만, 그 기술 자체는 지어낸 사실이 아니라는 겁니다. 여기서 이야기가 아주 흥미롭게 전개됩니다.<br><br>내부 보안팀이 정보를 입수했는데, 우리가 그 프로토타입 클로킹 시스템을 실험실 밖으로 옮겨 옆 항성계에 있는 시험장으로 옮기는 도중 이걸 훔치려 계획을 짜고 있는 경쟁사가 있다는군요. 문제는 그 스파이가 누군지 아직 모른다는 겁니다. 그래서 놈이 스스로 정체를 드러내 체포할 수 있게끔 계획을 짰는데요.<
+(truncated, 940 chars total)
+```
+
+
+RU
+
+```text
+ Наши инженеры из чрезвычайно секретного научно-исследовательского института, расположенного на близлежащей планете, разработали новый тип системы маскировки, который позволит спецкораблям прыгать через звездные врата без потери маскировки. Вижу по вашим глазам, что вы думаете. Считаете, я уже пропустил пару стаканов с утра? Тем не менее могу вас уверить, что, быть может, пройдет еще много лет, прежде чем эту систему доведут до совершенства и она перестанет быть просто экспериментальной, но что 
+(truncated, 1,696 chars total)
+```
+
+
+ZH
+
+```text
+我们位于邻近某行星的秘密研发中心的工程学家们研制出了一种新型隐形装置，用于装备特勤舰船，并且理论上可以使其在穿越星门的时候保持隐身状态。我明白，从你脸上看得出来你一定以为我喝多了。但是，我要告诉你，虽然这项技术离真正成熟或是用于实验阶段都还为时尚早，但它绝不是一个科幻产品，也正是因为这样，才有接下来的故事。 <br><br>
+我们的内部安保力量已经发现了我们一个竞争对手的阴谋，他们试图在我们将装置样本从研究所运往位于邻近星系的试验场途中拿走它。现在问题是，我们不知道那个间谍的身份，所以我们制定了一个计划来引其现身，这样我们就可以去逮捕他。<br><br>
+基于这个目的，你要运送的是一个制作逼真的隐形装置仿制品，那窃贼用肉眼或是用电子探测都是无法辨别真伪的。事实上，这个赝品根本不会使舰船隐形，就像它也不会为你做早餐一样。它就是一堆没用的烂金属片和电线，所以我们的行动小组幽默地称这次行动为“引蛇出洞”。你要做的，就是保证本次运输的绝对机密性。如果那个间谍有一丁点察觉这是个陷阱的话，那我们很可能永远也不知道他是谁了，我们这个最重要之一的科研项目也会继续处于落入敌手的危险之中。 <br><br
+(truncated, 552 chars total)
+```
+
+
+
+
+### MessageID: 144431 · Source Modified
+
+EN
+
+```diff
+- Our engineering scientists, working at our highly secure, clandestine R&D facility on a nearby planet have produced a new type of cloaking device that, when fitted to Covert Ops ships, could theoretically enable them to jump through stargates without uncloaking! And yes, I can see by the look on your face that you must think I've had far too many Extra Strength Quafe sodas today. However, I can assure you that, while it may be many years before this technology is perfected and suitable for even experimental use, the science behind it is quite real, and this is where this story takes a very important twist. <br><br>
++ Our engineering scientists, working at our highly secure, clandestine R&amp;D facility on a nearby planet have produced a new type of cloaking device that, when fitted to Covert Ops ships, could theoretically enable them to jump through stargates without uncloaking! And yes, I can see by the look on your face that you must think I've had far too many Extra Strength Quafe sodas today. However, I can assure you that, while it may be many years before this technology is perfected and suitable for even experimental use, the science behind it is quite real, and this is where this story takes a very important twist. <br><br>
+  Our internal security teams have managed to uncover a plan formulated by one of our competitors to steal the prototype cloaking system at some point between the time it leaves the lab up until it arrives at the field testing facility over in the next system. Problem is, we don't yet know who the spy is, so we devised a plan to get that spy to expose himself so that we can then move in and make the arrest.<br><br>
+  To this end, you will be delivering is a very detailed mock-up series of the actual prototype, one that will withstand an initial visual and electronic scrutiny on the part of the thief. In all practical terms, however, these devices could no more cloak a ship than it could cook your morning breakfast. We are naming this event Operation Doorstop, which is our planning team's attempt at humor, given the uselessness of this particular lump of metal and wires. What we do need, though, is your absolute confidentiality on this shipment. If the spy gets any whiff that this is a set-up, we will likely never know who he or she is, and we will remain at ongoing risk of one of our most important R&amp;D projects potentially falling into the wrong hands. <br><br>
+  So, what do you say, {[character]player.name}? Willing to take on this rather interesting assignment? 
+```
+
+
+DE
+
+```text
+Unsere Ingenieure arbeiten in unserer geheimen Hochsicherheitsanlage auf einem nahegelegenen Planeten und haben einen Typ von Tarngeräten entwickelt, das es einem Schiff für geheime Operationen nach dem Einbau theoretisch ermöglichen sollte, ohne sich zu enttarnen durch Sternentore zu springen! Und ja, ich kann Ihrem Gesichtsausdruck entnehmen, dass Sie der Ansicht sind, ich hätte heute bereits zu viele extrastarke Quafe getrunken. Doch ich kann Ihnen versichern, dass es zwar Jahre dauern kann, 
+(truncated, 2,116 chars total)
+```
+
+
+ES
+
+```text
+Nuestros científicos de ingeniería, que trabajan en nuestras instalaciones de I+D clandestinas de alta seguridad en un planeta cercano, han fabricado un nuevo tipo de dispositivo de camuflaje que, cuando se instala en las naves de operaciones encubiertas, podría permitirles, en teoría, saltar a través de los portales estelares sin descamuflarse. Por la cara que has puesto, debes de pensar que me he pasado con la dosis de refrescos Quafe extrafuertes. Sin embargo, puedo garantizarte que, aunque p
+(truncated, 1,955 chars total)
+```
+
+
+FR
+
+```text
+Les ingénieurs travaillant dans notre installation clandestine ultra-sécurisée de R&D sur une planète près d'ici ont mis au point un nouveau dispositif de camouflage qui, lorsqu'il équipera les vaisseaux des opérations secrètes, devrait leur permettre de sauter à travers les portails stellaires sans désactiver leur camouflage. Et oui, je peux voir d'après votre tête que vous pensez que j'ai abusé des sodas Quafe extra forts aujourd'hui. Mais je peux vous assurer que, même s'il faudra certainemen
+(truncated, 2,121 chars total)
+```
+
+
+JA
+
+```text
+ 極秘の R&D 施設で働いている我々の技術科学者が新しいタイプの遮蔽装置を開発した。この施設は近くの惑星にあり、高いセキュリティが確保されている。このデバイスを装備した隠密行動用艦船は、理論上では遮蔽されたままスターゲート間をジャンプできるはずだ。ああ、君の顔から分かるよ。今日の私は超強力クァフェソーダを飲み過ぎだって言うんだろ。だが、断言できる。このテクノロジーが完成し実験的にでも使用できるようになるには何年もかかるだろう。しかし、その背後にある科学はまさに現実だ。これこそがこの話の肝なのだ。 <br><br>
+競合相手の一つがプロトタイプ遮蔽デバイスを盗み出そうとしている計画を、我々の国内治安管理局チームが発見した。奴らは、研究施設から運び出されたプロトタイプ遮蔽デバイスを、次のシステムの実地テスト施設に到着するまでの間に盗み出そうと目論んでいる。問題は誰がスパイであるかが分からないことだ。そこで、我々は現場に踏み込んで逮捕できるようそいつを暴き出す計画を考案した。<br><br>
+この目的を達成するために、実際のプロトタイプを模した非常に精巧な実物大モデルをいくつか運んで欲しい
+(truncated, 849 chars total)
+```
+
+
+KO
+
+```text
+근처 행성 내 높은 보안 수준을 유지하는 비밀 연구개발 시설에서 우리 엔지니어링 과학자들이 새로운 종류의 클로킹 장치를 개발했습니다. 코버트 옵스 함선에 장착하면 이론상으로는 클로킹을 해제하지 않고서도 스타게이트를 점프로 뛰어넘을 수 있도록 하는 장치지요. 그래요, 표정을 보아하니 오늘 제가 엑스트라 스트렝스 퀘이프 소다를 너무 많이 마신 건 아닌가 하고 생각하고 있나 보군요. 어쨌든 제가 장담할 수 있는 건, 실험용으로 적용하기에 충분해지기까지 오랜 세월이 필요할지는 모르겠지만, 그 기술 자체는 지어낸 사실이 아니라는 겁니다. 여기서 이야기가 아주 흥미롭게 전개됩니다.<br><br>내부 보안팀이 정보를 입수했는데, 우리가 그 프로토타입 클로킹 시스템을 실험실 밖으로 옮겨 옆 항성계에 있는 시험장으로 옮기는 도중 이걸 훔치려 계획을 짜고 있는 경쟁사가 있다는군요. 문제는 그 스파이가 누군지 아직 모른다는 겁니다. 그래서 놈이 스스로 정체를 드러내 체포할 수 있게끔 계획을 짰는데요.<
+(truncated, 940 chars total)
+```
+
+
+RU
+
+```text
+ Наши инженеры из чрезвычайно секретного научно-исследовательского института, расположенного на близлежащей планете, разработали новый тип системы маскировки, который позволит спецкораблям прыгать через звездные врата без потери маскировки. Вижу по вашим глазам, что вы думаете. Считаете, я уже пропустил пару стаканов с утра? Тем не менее могу вас уверить, что, быть может, пройдет еще много лет, прежде чем эту систему доведут до совершенства и она перестанет быть просто экспериментальной, но что 
+(truncated, 1,696 chars total)
+```
+
+
+ZH
+
+```text
+我们位于邻近某行星的秘密研发中心的工程学家们研制出了一种新型隐形装置，用于装备特勤舰船，并且理论上可以使其在穿越星门的时候保持隐身状态。我明白，从你脸上看得出来你一定以为我喝多了。但是，我要告诉你，虽然这项技术离真正成熟或是用于实验阶段都还为时尚早，但它绝不是一个科幻产品，也正是因为这样，才有接下来的故事。 <br><br>
+我们的内部安保力量已经发现了我们一个竞争对手的阴谋，他们试图在我们将装置样本从研究所运往位于邻近星系的试验场途中拿走它。现在问题是，我们不知道那个间谍的身份，所以我们制定了一个计划来引其现身，这样我们就可以去逮捕他。<br><br>
+基于这个目的，你要运送的是一个制作逼真的隐形装置仿制品，那窃贼用肉眼或是用电子探测都是无法辨别真伪的。事实上，这个赝品根本不会使舰船隐形，就像它也不会为你做早餐一样。它就是一堆没用的烂金属片和电线，所以我们的行动小组幽默地称这次行动为“引蛇出洞”。你要做的，就是保证本次运输的绝对机密性。如果那个间谍有一丁点察觉这是个陷阱的话，那我们很可能永远也不知道他是谁了，我们这个最重要之一的科研项目也会继续处于落入敌手的危险之中。 <br><br
+(truncated, 552 chars total)
+```
+
+
+
+
+### MessageID: 263203 · Source Modified
+
+EN
+
+```diff
+  An electronic interface designed to augment and enhance a dreadnought's siege warfare abilities. Through a series of electromagnetic polarity field shifts, the siege module diverts energy from the ship's propulsion and warp systems to lend additional power to its offensive and defensive capabilities.
+  
+- This results in a tremendous increase in damage, as well as a greatly increased rate of defensive self-sustenance. Defensive benefits include improved self-repair and shield boosting effectiveness, as well as increased resistance to most forms of  electronic warfare. As a side effect of the ionic field created by the siege module, beneficial remote repair and capacitor transfer effects are ineffective against the fitted ship while the module is active.
++ This results in a tremendous increase in damage, as well as a greatly increased rate of defensive self-sustenance. Defensive benefits include improved self-repair and shield boosting effectiveness, as well as increased resistance to most forms of electronic warfare. As a side effect of the ionic field created by the siege module, beneficial remote repair and capacitor transfer effects are ineffective against the fitted ship while the module is active.
+  In addition, the lack of power to locomotion systems means that neither standard propulsion nor warp travel are available to the ship nor are you allowed to dock until out of siege mode.
+  
+[…]
+```
+
+
+DE
+
+```text
+Ein elektronisches Interface zur Anpassung und Steigerung der Belagerungsfähigkeiten von Dreadnoughts. Durch eine Reihe von Veränderungen des elektromagnetischen Polaritätsfeldes zweigt das Belagerungsmodul Energie aus den Antriebs- und Warp-Systemen des Schiffes ab. Die gewonnene zusätzliche Energie wird an die Angriffs- und Verteidigungssysteme weitergegeben. Dies führt zu einer gewaltigen Schadenssteigerung sowie weitaus höherer Selbstversorgung der Verteidigungssysteme. Die Verteidigungsvort
+(truncated, 1,726 chars total)
+```
+
+
+ES
+
+```text
+Una interfaz electrónica creada para aumentar y mejorar las capacidades de guerra de asedio de un superacorazado. Mediante una serie de cambios de campos de polaridad electromagnética, el módulo de asedio desvía energía de los sistemas de warp y propulsión de la nave para otorgar potencia adicional a sus capacidades ofensivas y defensivas.
+
+
+
+Esto da como resultado un tremendo aumento del daño, así como una autosuficiencia defensiva mucho mayor. Entre los beneficios defensivos se incluye una mej
+(truncated, 1,717 chars total)
+```
+
+
+FR
+
+```text
+Interface électronique conçue pour renforcer et améliorer les possibilités en matière de tactiques de siège d'un supercuirassé. Grâce à une série d'inversions de la polarité du champ électromagnétique, le module de siège redirige l'énergie affectée aux systèmes de propulsion et de warp du vaisseau vers ses capacités offensives et défensives. Le vaisseau est alors en mesure d'infliger de terribles dégâts et d'augmenter de façon exponentielle ses capacités autodéfensives. Les avantages de défense 
+(truncated, 1,715 chars total)
+```
+
+
+JA
+
+```text
+攻城艦級の包囲戦能力を高める電子インターフェイス。連続的にシフトする極性電磁フィールドを介して、艦船の推進力装備システムおよびワープシステムのエネルギーを攻撃システムと防衛システムに転送する。
+
+
+
+これにより、攻撃能力と防衛能力を飛躍的に向上させる。防衛面でのメリットとして、自己修復能力とシールドブースト効率が上昇し、また大概の電子戦に対する耐性が向上する。シージモジュールの生成するイオンフィールドの副作用として、モジュールの起動中は装着している艦船に対するリモートリペアおよびキャパシタ転送のプラス効果は無効化される。
+
+さらに、推進力装備システムとワープシステムのエネルギーを転用するため、通常の航行やワープ航行は不可能となる。また、入港する際は、いったんシージモードを解除しなければならない。
+
+
+
+注：
+
+‐ シージモジュールを起動し、効果的に作動させるためには、ストロンチウム化合物が必要。
+
+‐ シールドブースターの量と有効期間に対するボーナスは主力艦級ブースターにのみ適用される。
+
+‐ アーマーリペアラの量と有効期間に対するボーナスは主力艦級リペアラにのみ適用される。
+
+- 攻
+(truncated, 625 chars total)
+```
+
+
+KO
+
+```text
+드레드노트급의 공성 능력 향상을 위해 설계된 전자 인터페이스입니다. EM 극성 필드 변환을 통해 워프 시스템 및 추진 장치에서 발생하는 여분의 에너지를 공격력 또는 방어력으로 전환합니다. <br><br>해당 과정을 통해 함선의 공격력, 유지력, 그리고 방어력이 큰 폭으로 상승합니다. 방어적인 기능 향상으로는 실드 부스트 효과 증가, 개선된 자가수리 능력, 그리고 전자전 장비에 대한 전반적인 저항력 상승이 있습니다. 해당 모듈은 이온 필드를 전개하기 때문에 모듈 활성화 중 원격 수리와 캐피시터 전송을 받을 수 없습니다. <br><br>추가로 시즈 모드 활성화 중에는 추진 시스템을 가동할 전력이 부족하여 이동, 워프, 그리고 도킹이 불가능합니다. <br><br>참고:<br><br>- 시즈모듈을 가동하려면 스트론튬 클라트레이트가 필요합니다.<br><br>- 실드 부스터의 지속시간 및 회복량 증가 효과는 캐피탈급 부스터에만 적용됩니다.<br><br>- 장갑수리 장치의 지속시간 및 회복량 증
+(truncated, 626 chars total)
+```
+
+
+RU
+
+```text
+Электронный интерфейс, разработанный для повышения эффективности дредноута в осадной войне. Посредством поочерёдного смещения электромагнитных полей осадный модуль перенаправляет энергию из двигательных систем и варп-систем корабля, усиливая его защитные и атакующие свойства. В результате этого корабль не только наносит огромный урон, но и способен долгое время поддерживать собственную защиту. Эффективность ремонтных систем и усилителя щитов повышается — так же, как и сопротивляемость к воздейст
+(truncated, 1,460 chars total)
+```
+
+
+ZH
+
+```text
+一种为扩大增强无畏舰会战攻击能力而设计的电子接口。通过一系列的电磁场磁极转换，会战模块能调拨飞船推进系统和跃迁系统的能量来增强进攻和防御能力。
+
+
+
+这不仅使飞船的伤害输出极大增强，也使飞船承受打击的能力提高不少。好处是防御上提升自身的维修和护盾回充效果，提升大部分种类的  电子战抗性。但对离子力场也产生了副作用，远程维修和电容传输效果对激活该装备的舰船没有效果。
+
+另外，由于开启后造成的动力系统能量缺失，无论标准推进、停靠或跃迁都不能进行，除非飞船退出会战模式。
+
+
+
+注意： 
+
+- 会战装备需要锶包合物提供能量才能有效运行。 
+
+- 护盾回充增量和持续时间的加成只对旗舰级护盾回充增量器生效。
+
+- 装甲维修量和持续时间的加成只对旗舰级装甲维修器生效。
+
+- 每艘无畏舰只能安装一个会战装备。与其它具有相似类型属性的装备一同使用会使从会战装备获得的护盾回充和装甲维修增量受到惩罚。
+```
+
+
+
+
+### MessageID: 264044 · Source Modified
+
+EN
+
+```diff
+- One of our R&D facilities has been working hard to pr[…]
++ One of our R&amp;D facilities has been working hard to pr[…]
+```
+
+
+DE
+
+```text
+Eine unserer Forschungsanlagen arbeitet an der Entwicklung eines neuen Tarngeräts für bei verdeckten Operationen eingesetzte Schiffe, die es diesen Schiffen ermöglichen würde, ungetarnt zu bleiben, während sie durch Sternentore springen. Allerdings haben wir vor Kurzem erfahren, dass ein Spionageagent eines Konkurrenzunternehmens es aus offensichtlichen Gründen auf diese neue Technologie abgesehen hat. Um ihn aufspüren und verhaften zu können, müssen wir ihn auf frischer Tat erwischen. Daher bit
+(truncated, 845 chars total)
+```
+
+
+ES
+
+```text
+Una de nuestras instalaciones de I+D ha estado trabajando para producir un nuevo tipo de dispositivo de camuflaje para las naves de operaciones encubiertas que permitirá que permanezcan camufladas mientras atraviesan portales estelares. Sin embargo, hace poco nos hemos dado cuenta de que un agente de espionaje industrial enviado por una empresa rival tiene esta nueva tecnología en el punto de mira, por razones obvias. Sin embargo, para acabar con él y arrestarlo, tenemos que pillarlo con las man
+(truncated, 786 chars total)
+```
+
+
+FR
+
+```text
+Une de nos installations de R&D a travaillé d'arrache-pied pour mettre au point un nouveau type de dispositif de camouflage pour les vaisseaux des opérations secrètes qui leur permettra de rester invisibles pendant qu'ils franchissent les portails stellaires. Toutefois, nous avons appris récemment qu'un agent d'espionnage corporatif, envoyé par une société rivale, s'intéresse de très près à cette nouvelle technologie, pour des raisons évidentes. Si nous voulons pouvoir le débusquer et l'arrêter,
+(truncated, 914 chars total)
+```
+
+
+JA
+
+```text
+我々の R&D 施設の一つが、隠密行動艦船用に新しいタイプの遮蔽装置を作ろうと熱心に取り組んでいる。このデバイスにより、船は遮蔽されたままスターゲート間をジャンプできるようになる。ところがだ、最近寄せられた情報によると、ライバル会社によって送り込まれたコーポレーションスパイエージェントが、この新しいテクノロジーを狙っているらしい。理由は明白だ。そのスパイを暴き出し逮捕するには、現行犯で捕まえる必要がある。そこで、君には、おとりのプロトタイプ遮蔽装置を、このステーションから指定のステーションまで輸送して欲しい。これだけ興味をそそるターゲットだ。スパイは盗んでみようという気持ちを抑えられないというのはどこかにあるだろう。このデバイスは秘密裡にそのステーションに輸送する必要がある。
+```
+
+
+KO
+
+```text
+우리 연구개발 시설 중 한 곳에서 코버트 옵스 함선을 위한 새로운 유형의 클로킹 장치를 개발하기 위해 최선을 다하고 있답니다. 이 장치를 쓰면 스타게이트 간 이동 중에도 함선 클로킹이 가능하거든요. 하지만 최근에 경쟁사가 이 신기술을 노리고 코퍼레이션 스파이를 보냈지 뭡니까. 목적이야 뭐 뻔하죠. 녀석을 잡아서 쫓아내야 하는데 반드시 현장에서 놈을 체포해야만 합니다. 그러니 당신이 미끼용 프로토타입 클로킹 장치를 이 정거장에서 우리가 부탁한 목적지까지 갖다 줬으면 해요. 그렇게 탐스러운 먹잇감을 눈앞에 두면 녀석은 그걸 어떻게 해서든 훔치려고 움직일 테죠. 절대 기밀이 누설되는 일이 없도록 그 정거장까지 이 장치를 갖다 주셔야 합니다.
+```
+
+
+RU
+
+```text
+В одном из наших научно-производственных комплексов ведутся разработки новой системы маскировки для спецкораблей, которая позволит им оставаться замаскированными во время прыжка через звездные врата. Но нам недавно стало известно, что конкурирующая корпорация заслала к нам шпиона с целью украсть новую технологию. Чтобы обнаружить его и арестовать, надо поймать его с поличным. Поэтому мы просим вас перевезти фальшивый прототип системы маскировки с этой станции на другую, которую мы вам укажем. Мы
+(truncated, 719 chars total)
+```
+
+
+ZH
+
+```text
+我们的一个研发中心研制出了一种新型的隐形装置，可以使特勤舰船在穿越星门时一直保持隐形状态。但是，最近我们注意到，我们某个竞争对手派出的一个商业间谍盯上了这项新技术，他的意图不言而喻。我们要当场抓住他作案才可以逮捕他。所以，作为诱饵，我们要你将一套隐形装置从这里送往指定地点。那间谍一定会抵挡不住如此大的引诱而试图拿走它的。我们需要你将装置送往那个空间站并保持高度机密。
+```
+
+
+
+
+### MessageID: 545150 · Source Modified
+
+EN
+
+```diff
+- Payment for use of {itemTraderTypeID}.
++ Payment for use of {[item]arg1.name}.
+```
+
+
+DE
+
+```diff
+- Zahlung für die Verwendung von {itemTraderTypeID}.
++ Zahlung für die Verwendung von {[item]arg1.name}.
+```
+
+
+ES
+
+```diff
+- Pago por el uso de {itemTraderTypeID}.
++ Pago por el uso de {[item]arg1.name}.
+```
+
+
+FR
+
+```diff
+- Paiement pour l'utilisation de {itemTraderTypeID}.
++ Paiement pour l'utilisation de {[item]arg1.name}.
+```
+
+
+JA
+
+```diff
+- {itemTraderTypeID}の利用費
++ {[item]arg1.name}の利用費
+```
+
+
+KO
+
+```diff
+- {itemTraderTypeID} 사용 요금입니다.
++ {[item]arg1.name} 사용 요금입니다.
+```
+
+
+RU
+
+```diff
+- Плата за использование {itemTraderTypeID}.
++ Плата за использование {[item]arg1.name}.
+```
+
+
+ZH
+
+```diff
+- 使用{itemTraderTypeID}而支付的款项。
++ 使用{[item]arg1.name}而支付的款项。
+```
+
+
+
+
+### MessageID: 569975 · Source Modified
+
+EN
+
+```diff
+  An electronic interface designed to augment and enhance a dreadnought's siege warfare abilities. Through a series of electromagnetic polarity field shifts, the siege module diverts energy from the ship's propulsion and warp systems to lend additional power to its offensive and defensive capabilities.
+  
+- This results in a tremendous increase in damage, as well as a greatly increased rate of defensive self-sustenance. Defensive benefits include improved self-repair and shield boosting effectiveness, as well as increased resistance to most forms of  electronic warfare. As a side effect of the ionic field created by the siege module, beneficial remote repair and capacitor transfer effects are ineffective against the fitted ship while the module is active.
++ This results in a tremendous increase in damage, as well as a greatly increased rate of defensive self-sustenance. Defensive benefits include improved self-repair and shield boosting effectiveness, as well as increased resistance to most forms of electronic warfare. As a side effect of the ionic field created by the siege module, beneficial remote repair and capacitor transfer effects are ineffective against the fitted ship while the module is active.
+  In addition, the lack of power to locomotion systems means that neither standard propulsion nor warp travel are available to the ship nor are you allowed to dock until out of siege mode.
+  
+[…]
+```
+
+
+DE
+
+```text
+Ein elektronisches Interface zur Anpassung und Steigerung der Belagerungsfähigkeiten von Dreadnoughts. Durch eine Reihe von Veränderungen des elektromagnetischen Polaritätsfeldes zweigt das Belagerungsmodul Energie aus den Antriebs- und Warp-Systemen des Schiffes ab. Die gewonnene zusätzliche Energie wird an die Angriffs- und Verteidigungssysteme weitergegeben. Dies führt zu einer gewaltigen Schadenssteigerung sowie weitaus höherer Selbstversorgung der Verteidigungssysteme. Die Verteidigungsvort
+(truncated, 1,719 chars total)
+```
+
+
+ES
+
+```text
+Una interfaz electrónica creada para aumentar y mejorar las capacidades de guerra de asedio de un superacorazado. Mediante una serie de cambios de campos de polaridad electromagnética, el módulo de asedio desvía energía de los sistemas de warp y propulsión de la nave para otorgar potencia adicional a sus capacidades ofensivas y defensivas.
+
+
+
+Esto da como resultado un tremendo aumento del daño, así como una autosuficiencia defensiva mucho mayor. Entre los beneficios defensivos se incluye una mej
+(truncated, 1,717 chars total)
+```
+
+
+FR
+
+```text
+Interface électronique conçue pour renforcer et améliorer les possibilités en matière de tactiques de siège d'un supercuirassé. Grâce à une série d'inversions de la polarité du champ électromagnétique, le module de siège redirige l'énergie affectée aux systèmes de propulsion et de warp du vaisseau vers ses capacités offensives et défensives. Le vaisseau est alors en mesure d'infliger de terribles dégâts et d'augmenter de façon exponentielle ses capacités autodéfensives. Les avantages de défense 
+(truncated, 1,713 chars total)
+```
+
+
+JA
+
+```text
+攻城艦級の包囲戦能力を高める電子インターフェイス。連続的にシフトする極性電磁フィールドを介して、艦船の推進力装備システムおよびワープシステムのエネルギーを攻撃システムと防衛システムに転送する。
+
+
+
+これにより、攻撃能力と防衛能力を飛躍的に向上させる。防衛面でのメリットとして、自己修復能力とシールドブースト効率が上昇し、また大概の電子戦に対する耐性が向上する。シージモジュールの生成するイオンフィールドの副作用として、モジュールの起動中は装着している艦船に対するリモートリペアおよびキャパシタ転送のプラス効果は無効化される。
+
+さらに、推進力装備システムとワープシステムのエネルギーを転用するため、通常の航行やワープ航行は不可能となる。また、入港する際は、いったんシージモードを解除しなければならない。
+
+
+
+注：
+
+‐ シージモジュールを起動し、効果的に作動させるためには、ストロンチウム化合物が必要。
+
+‐ シールドブースターの量と有効期間に対するボーナスは主力艦級ブースターにのみ適用される。
+
+‐ アーマーリペアラの量と有効期間に対するボーナスは主力艦級リペアラにのみ適用される。
+
+- 攻
+(truncated, 625 chars total)
+```
+
+
+KO
+
+```text
+드레드노트급의 공성 능력 향상을 위해 설계된 전자 인터페이스입니다. EM 극성 필드 변환을 통해 워프 시스템 및 추진 장치에서 발생하는 여분의 에너지를 공격력 또는 방어력으로 전환합니다. <br><br>해당 과정을 통해 함선의 공격력, 유지력, 그리고 방어력이 큰 폭으로 상승합니다. 방어적인 기능 향상으로는 실드 부스트 효과 증가, 개선된 자가수리 능력, 그리고 전자전 장비에 대한 전반적인 저항력 상승이 있습니다. 해당 모듈은 이온 필드를 전개하기 때문에 모듈 활성화 중 원격 수리와 캐피시터 전송을 받을 수 없습니다. <br><br>추가로 시즈 모드 활성화 중에는 추진 시스템을 가동할 전력이 부족하여 이동, 워프, 그리고 도킹이 불가능합니다. <br><br>참고:<br><br>- 시즈모듈을 가동하려면 스트론튬 클라트레이트가 필요합니다.<br><br>- 실드 부스터의 지속시간 및 회복량 증가 효과는 캐피탈급 부스터에만 적용됩니다.<br><br>- 장갑수리 장치의 지속시간 및 회복량 증
+(truncated, 626 chars total)
+```
+
+
+RU
+
+```text
+Электронный интерфейс, разработанный для повышения эффективности дредноута в осадной войне. Посредством поочерёдного смещения электромагнитных полей осадный модуль перенаправляет энергию из двигательных систем и варп-систем корабля, усиливая его защитные и атакующие свойства. В результате этого корабль не только наносит огромный урон, но и способен долгое время поддерживать собственную защиту. Эффективность ремонтных систем и усилителя щитов повышается — так же, как и сопротивляемость воздействи
+(truncated, 1,503 chars total)
+```
+
+
+ZH
+
+```text
+一种为扩大增强无畏舰会战攻击能力而设计的电子接口。通过一系列的电磁场磁极转换，会战模块能调拨飞船推进系统和跃迁系统的能量来增强进攻和防御能力。
+
+
+
+这不仅使飞船的伤害输出极大增强，也使飞船承受打击的能力提高不少。好处是防御上提升自身的维修和护盾回充效果，提升大部分种类的  电子战抗性。但对离子力场也产生了副作用，远程维修和电容传输效果对激活该装备的舰船没有效果。
+
+另外，由于开启后造成的动力系统能量缺失，无论标准推进、停靠或跃迁都不能进行，除非飞船退出会战模式。
+
+
+
+注意： 
+
+- 会战装备需要锶包合物提供能量才能有效运行。 
+
+- 护盾回充增量和持续时间的加成只对旗舰级护盾回充增量器生效。
+
+- 装甲维修量和持续时间的加成只对旗舰级装甲维修器生效。
+
+- 每艘无畏舰只能安装一个会战装备。与其它具有相似类型属性的装备一同使用会使从会战装备获得的护盾回充和装甲维修增量受到惩罚。
+```
+
+
+
+
+### MessageID: 570550 · Source Modified
+
+EN
+
+```diff
+- Payment for use of {itemTraderTypeID}.
++ Payment for use of {[item]arg1.name}.
+```
+
+
+DE
+
+```diff
+- Zahlung für die Verwendung von {itemTraderTypeID}.
++ Zahlung für die Verwendung von {[item]arg1.name}.
+```
+
+
+ES
+
+```diff
+- Pago por el uso de {itemTraderTypeID}.
++ Pago por el uso de {[item]arg1.name}.
+```
+
+
+FR
+
+```diff
+- Paiement pour l'utilisation de {itemTraderTypeID}.
++ Paiement pour l'utilisation de {[item]arg1.name}.
+```
+
+
+JA
+
+```diff
+- {itemTraderTypeID}の利用費
++ {[item]arg1.name}の利用費
+```
+
+
+KO
+
+```diff
+- {itemTraderTypeID} 사용 요금입니다.
++ {[item]arg1.name} 사용 요금입니다.
+```
+
+
+RU
+
+```diff
+- Плата за использование {itemTraderTypeID}.
++ Плата за использование {[item]arg1.name}.
+```
+
+
+ZH
+
+```diff
+- 使用{itemTraderTypeID}而支付的款项。
++ 使用{[item]arg1.name}而支付的款项。
+```
+
+
+
+
+### MessageID: 1011918 · Source Modified
+
+EN
+
+```diff
+  An electronic interface designed to augment and enhance a dreadnought's siege warfare abilities. Through a series of electromagnetic polarity field shifts, the siege module diverts energy from the ship's propulsion and warp systems to lend additional power to its offensive and defensive capabilities.
+  
+- This results in a tremendous increase in damage, as well as a greatly increased rate of defensive self-sustenance. Defensive benefits include improved self-repair and shield boosting effectiveness, as well as increased resistance to most forms of  electronic warfare. As a side effect of the ionic field created by the siege module, beneficial remote repair and capacitor transfer effects are ineffective against the fitted ship while the module is active.
++ This results in a tremendous increase in damage, as well as a greatly increased rate of defensive self-sustenance. Defensive benefits include improved self-repair and shield boosting effectiveness, as well as increased resistance to most forms of electronic warfare. As a side effect of the ionic field created by the siege module, beneficial remote repair and capacitor transfer effects are ineffective against the fitted ship while the module is active.
+  In addition, the lack of power to locomotion systems means that neither standard propulsion nor warp travel are available to the ship nor are you allowed to dock until out of siege mode.
+  
+[…]
+```
+
+
+DE
+
+```text
+Ein elektronisches Interface zur Anpassung und Steigerung der Belagerungsfähigkeiten von Dreadnoughts. Durch eine Reihe von Veränderungen des elektromagnetischen Polaritätsfeldes zweigt das Belagerungsmodul Energie aus den Antriebs- und Warp-Systemen des Schiffes ab. Die gewonnene zusätzliche Energie wird an die Angriffs- und Verteidigungssysteme weitergegeben. Dies führt zu einer gewaltigen Schadenssteigerung sowie weitaus höherer Selbstversorgung der Verteidigungssysteme. Die Verteidigungsvort
+(truncated, 1,719 chars total)
+```
+
+
+ES
+
+```text
+Una interfaz electrónica creada para aumentar y mejorar las capacidades de guerra de asedio de un superacorazado. Mediante una serie de cambios de campos de polaridad electromagnética, el módulo de asedio desvía energía de los sistemas de warp y propulsión de la nave para otorgar potencia adicional a sus capacidades ofensivas y defensivas.
+
+
+
+Esto da como resultado un tremendo aumento del daño, así como una autosuficiencia defensiva mucho mayor. Entre los beneficios defensivos se incluye una mej
+(truncated, 1,717 chars total)
+```
+
+
+FR
+
+```text
+Interface électronique conçue pour renforcer et améliorer les possibilités en matière de tactiques de siège d'un supercuirassé. Grâce à une série d'inversions de la polarité du champ électromagnétique, le module de siège redirige l'énergie affectée aux systèmes de propulsion et de warp du vaisseau vers ses capacités offensives et défensives. Le vaisseau est alors en mesure d'infliger de terribles dégâts et d'augmenter de façon exponentielle ses capacités autodéfensives. Les avantages de défense 
+(truncated, 1,713 chars total)
+```
+
+
+JA
+
+```text
+攻城艦級の包囲戦能力を高める電子インターフェイス。連続的にシフトする極性電磁フィールドを介して、艦船の推進力装備システムおよびワープシステムのエネルギーを攻撃システムと防衛システムに転送する。
+
+
+
+これにより、攻撃能力と防衛能力を飛躍的に向上させる。防衛面でのメリットとして、自己修復能力とシールドブースト効率が上昇し、また大概の電子戦に対する耐性が向上する。シージモジュールの生成するイオンフィールドの副作用として、モジュールの起動中は装着している艦船に対するリモートリペアおよびキャパシタ転送のプラス効果は無効化される。
+
+さらに、推進力装備システムとワープシステムのエネルギーを転用するため、通常の航行やワープ航行は不可能となる。また、入港する際は、いったんシージモードを解除しなければならない。
+
+
+
+注：
+
+‐ シージモジュールを起動し、効果的に作動させるためには、ストロンチウム化合物が必要。
+
+‐ シールドブースターの量と有効期間に対するボーナスは主力艦級ブースターにのみ適用される。
+
+‐ アーマーリペアラの量と有効期間に対するボーナスは主力艦級リペアラにのみ適用される。
+
+- 攻
+(truncated, 625 chars total)
+```
+
+
+KO
+
+```text
+드레드노트급의 공성 능력 향상을 위해 설계된 전자 인터페이스입니다. EM 극성 필드 변환을 통해 워프 시스템 및 추진 장치에서 발생하는 여분의 에너지를 공격력 또는 방어력으로 전환합니다. <br><br>해당 과정을 통해 함선의 공격력, 유지력, 그리고 방어력이 큰 폭으로 상승합니다. 방어적인 기능 향상으로는 실드 부스트 효과 증가, 개선된 자가수리 능력, 그리고 전자전 장비에 대한 전반적인 저항력 상승이 있습니다. 해당 모듈은 이온 필드를 전개하기 때문에 모듈 활성화 중 원격 수리와 캐피시터 전송을 받을 수 없습니다. <br><br>추가로 시즈 모드 활성화 중에는 추진 시스템을 가동할 전력이 부족하여 이동, 워프, 그리고 도킹이 불가능합니다. <br><br>참고:<br><br>- 시즈모듈을 가동하려면 스트론튬 클라트레이트가 필요합니다.<br><br>- 실드 부스터의 지속시간 및 회복량 증가 효과는 캐피탈급 부스터에만 적용됩니다.<br><br>- 장갑수리 장치의 지속시간 및 회복량 증
+(truncated, 626 chars total)
+```
+
+
+RU
+
+```text
+Электронный интерфейс, разработанный для повышения эффективности дредноута в осадной войне. Посредством поочерёдного смещения электромагнитных полей осадный модуль перенаправляет энергию из двигательных систем и варп-систем корабля, усиливая его защитные и атакующие свойства. В результате этого корабль не только наносит огромный урон, но и способен долгое время поддерживать собственную защиту. Эффективность ремонтных систем и усилителя щитов повышается — так же, как и сопротивляемость воздействи
+(truncated, 1,503 chars total)
+```
+
+
+ZH
+
+```text
+一种为扩大增强无畏舰会战攻击能力而设计的电子接口。通过一系列的电磁场磁极转换，会战模块能调拨飞船推进系统和跃迁系统的能量来增强进攻和防御能力。
+
+
+
+这不仅使飞船的伤害输出极大增强，也使飞船承受打击的能力提高不少。好处是防御上提升自身的维修和护盾回充效果，提升大部分种类的  电子战抗性。但对离子力场也产生了副作用，远程维修和电容传输效果对激活该装备的舰船没有效果。
+
+另外，由于开启后造成的动力系统能量缺失，无论标准推进、停靠或跃迁都不能进行，除非飞船退出会战模式。
+
+
+
+注意： 
+
+- 会战装备需要锶包合物提供能量才能有效运行。 
+
+- 护盾回充增量和持续时间的加成只对旗舰级护盾回充增量器生效。
+
+- 装甲维修量和持续时间的加成只对旗舰级装甲维修器生效。
+
+- 每艘无畏舰只能安装一个会战装备。与其它具有相似类型属性的装备一同使用会使从会战装备获得的护盾回充和装甲维修增量受到惩罚。
+```
+
+
+
+
+### MessageID: 1031290 · Source Modified
+
+EN
+
+```diff
+- Batch Compressed Crokite IV-Grade
++ Batch Compressed Crokite II-Grade
+```
+
+
+DE
+
+```text
+Batch Compressed Crokite IV-Grade
+```
+
+
+ES
+
+```text
+Crokitio comprimido en lote de grado IV
+```
+
+
+FR
+
+```text
+Crokite compressée en lot de catégorie IV
+```
+
+
+JA
+
+```text
+バッチ式圧縮クロカイト（グレードIV）
+```
+
+
+KO
+
+```text
+4급 압축된 크로카이트 (구형)
+```
+
+
+RU
+
+```text
+Batch Compressed Crokite IV-Grade
+```
+
+
+ZH
+
+```text
+聚合高密度克洛基石（4级）
+```
+
+
+
+
+### MessageID: 1040092 · Removed
+
+EN
+
+```text
+All Objectives
+```
+
+
+DE
+
+```text
+Alle Ziele
+```
+
+
+ES
+
+```text
+Todos los objetivos
+```
+
+
+FR
+
+```text
+Tous les objectifs
+```
+
+
+JA
+
+```text
+すべての目標
+```
+
+
+KO
+
+```text
+모든 목표
+```
+
+
+RU
+
+```text
+Все задания
+```
+
+
+ZH
+
+```text
+所有目标
+```
+
+
+
+
+### MessageID: 1042814 · Source Modified
+
+EN
+
+```diff
+- Active
++ My objectives
+```
+
+
+DE
+
+```text
+Aktiv
+```
+
+
+ES
+
+```text
+Activas
+```
+
+
+FR
+
+```text
+Actif
+```
+
+
+JA
+
+```text
+進行中
+```
+
+
+KO
+
+```text
+활성화
+```
+
+
+RU
+
+```text
+Действует
+```
+
+
+ZH
+
+```text
+进行中
+```
+
+
+
+
+### MessageID: 1047142 · Source Modified
+
+EN
+
+```diff
+- Pyroxeres  0-Grade
++ Pyroxeres 0-Grade
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047596 · Added
+
+EN
+
+```text
+All known objectives, including available, completed, and upcoming objectives.
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047597 · Added
+
+EN
+
+```text
+Objectives you are currently participating in.
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047598 · Added
+
+EN
+
+```text
+Objectives that have been completed by the community and are no longer available for contribution.
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047599 · Added
+
+EN
+
+```text
+Objectives scheduled to become available in the near future.
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047600 · Added
+
+EN
+
+```text
+Objectives that are currently active and open for contribution.
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048012 · Added
+
+EN
+
+```text
+Include Restricted Objectives
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+---
+
 # Build 3417089
 
 ## Summary
